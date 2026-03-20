@@ -1,0 +1,14 @@
+{
+  "name": "com.krimelz.urp-dual-kawase-blur",
+  "version": "1.0.0",
+  "displayName": "URP Dual Kawase Blur",
+  "description": "High-performance blur effect for Unity 6.3 URP using the Dual Kawase algorithm. Compatible with Render Graph only",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.3.0"
+  },
+  "author": {
+    "name": "krimelz",
+    "email": "krimzida21@gmail.com"
+  },
+  "unity": "6000.3"
+}
