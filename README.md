@@ -14,7 +14,7 @@ Then you can proceed to install this package:
 
 1. Inside Unity, go to "Window"-> "Package Manager".
 2. Once the window is opened, go to the "+" symbol at the top left corner, and select "Install package from git URL".
-3. Write the following URL: ... and click install.
+3. Write the following URL: https://github.com/Krimelz/unity-urp-dual-kawase-blur.git and click install.
 
 # How to add blur
 
