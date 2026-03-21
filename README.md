@@ -1,10 +1,10 @@
 # Requirements
 
-Unity 6.3+ and URP 17.3+ version.
+Unity 6.3+ and URP 17.3+ version. Render Graph only.
 
 # Features
 
-* ...
+* Fullscreen Dual Kawase blur effect
 
 # Installation
 
